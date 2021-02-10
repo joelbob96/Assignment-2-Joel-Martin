@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 59939c5ee8ce20245867476f9a21b57f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Red: {fileID: 2100000, guid: 117984812a8347a42a79826b2adf1d1c, type: 2}
+  - Blue: {fileID: 2100000, guid: 3d3c44b71bc3ead4db6548f1298fdf9f, type: 2}
+  - Green: {fileID: 2100000, guid: 29ed0284020862a4b9f55c0e8b76815b, type: 2}
+  - Player: {fileID: 1476175244742048745, guid: d67316d8c9f01ba45bf3416765308bf4, type: 3}
+  - color: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

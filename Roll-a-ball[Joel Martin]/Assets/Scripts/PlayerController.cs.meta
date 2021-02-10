@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 871bb5e334c45364b8abb445da65f3be
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scoreText: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - player: {fileID: 1476175244742048745, guid: d67316d8c9f01ba45bf3416765308bf4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
